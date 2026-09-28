@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reparacioneselectrodomesticos.com.es/sitemap.xml
