@@ -66,3 +66,6 @@
   font-weight:800;
 }
 .map-wrap .maplink.lower:hover{background:var(--blue-dark);color:#fff}
+
+/* Cita previa Cal.com */
+.appointment-section{background:#f7f7f7;padding:72px 0}.appointment-lead{text-align:center;margin:0 auto 28px;max-width:720px}.calendar-wrap{width:100%;max-width:1100px;margin:0 auto;overflow:hidden;border-radius:22px;background:#fff;border:1px solid #e5e5e5;box-shadow:0 14px 40px #00000012}.cal-frame{display:block;width:100%;height:720px;border:0;background:#fff}@media(max-width:700px){.appointment-section{padding:52px 0}.cal-frame{height:680px}.calendar-wrap{border-radius:16px}}
